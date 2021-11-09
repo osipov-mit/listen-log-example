@@ -1,0 +1,11 @@
+{
+  "name": "listen-log-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@gear-js/api": "^0.7.0",
+    "@polkadot/api": "^6.7.2"
+  }
+}
